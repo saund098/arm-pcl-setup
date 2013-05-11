@@ -3,3 +3,7 @@ CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
+OpenNI
+SensorKinect
+opencv-2.4.5
+pcl
