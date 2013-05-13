@@ -2,7 +2,7 @@
 top=$(pwd)
 
 # Clone OpenNI unstable branch
-git clone git://github.com/saund098/OpenNI.git
+git clone git://github.com/OpenNI/OpenNI.git
 cd $top/OpenNI
 git checkout unstable
 

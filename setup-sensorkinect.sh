@@ -2,7 +2,7 @@
 top=$(pwd)
 
 # Clone SensorKinect unstable branch
-git clone git://github.com/saund098/SensorKinect
+git clone git://github.com/avin2/SensorKinect
 cd $top/SensorKinect
 git checkout unstable
 
